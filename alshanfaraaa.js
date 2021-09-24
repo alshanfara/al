@@ -5,6 +5,7 @@
 <input id="searchButton" value="Search" type="submit" /></form>
 <style>
 input#input-1 {width: 75%;}
-</style> 
+ </div> 
+     <center>
 `).insertBefore("#d2bc");
 
